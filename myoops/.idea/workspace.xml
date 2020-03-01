@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a90cd7e-0501-40c8-9cac-be5fba51988c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YO9c57212SgK6eyJFfnNjaEvM0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-hello-sbp" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.oops_depth (1)">
+    <configuration name="book_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oops" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../python-hello-sbp/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="country_puzzle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oops" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/country_puzzle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oops_depth (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oops" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../myoops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../myoops/oops_depth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oops_depth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oops" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops_depth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.oops_depth (1)" />
+        <item itemvalue="Python.oops_depth" />
+        <item itemvalue="Python.country_puzzle" />
+        <item itemvalue="Python.book_example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a90cd7e-0501-40c8-9cac-be5fba51988c" name="Default Changelist" comment="" />
+      <created>1582802849427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582802849427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="27" width="619" height="741" key="#book_example" timestamp="1582803285121">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="402" y="27" width="619" height="741" key="#book_example/67.27.1299.741@67.27.1299.741" timestamp="1582803285121" />
+    <state x="555" y="282" width="587" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582802880333">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="555" y="282" width="587" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1582802880333" />
+    <state x="557" y="241" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583060219635">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="557" y="241" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583060219635" />
+    <state width="1161" height="116" key="GridCell.Tab.0.bottom" timestamp="1583060221594">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1161" height="116" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583060221594" />
+    <state width="1161" height="116" key="GridCell.Tab.0.center" timestamp="1583060221594">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1161" height="116" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583060221594" />
+    <state width="1161" height="116" key="GridCell.Tab.0.left" timestamp="1583060221593">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1161" height="116" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583060221593" />
+    <state width="1161" height="116" key="GridCell.Tab.0.right" timestamp="1583060221594">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1161" height="116" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583060221594" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1582805980663">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582805980663" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583056459609">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583056459609" />
+  </component>
+</project>
